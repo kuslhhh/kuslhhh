@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kushal</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **node.js, react, Go**
+- 🌱 I’m currently learning **Node.js, MongoDB, React**
 
 - 👯 I’m looking to collaborate on **Fullstack Projects**
 
