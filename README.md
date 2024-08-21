@@ -1,18 +1,16 @@
 <div align="center">
-  
-
-
-
+<br>
+<br>
+<br>
 ![image](https://github.com/user-attachments/assets/3b11bf9e-b1a9-4251-8a24-fbff65301952)
-
-
-
-
+<br>
+<br>
+<br>
 
   Hi! I'm Kush. My programming journey started at the start of 2022, and since then I've rapidly expanding to many other languages and frameworks. Eager to learn WEB3!
 
   ----
-  ### Languages
+  ### Tech Stack
     
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" height="80">  
   <img src="https://skillicons.dev/icons?i=js" height="80">
