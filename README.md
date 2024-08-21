@@ -1,26 +1,48 @@
-<h1 align="center">Hi 👋, I'm Kushal</h1>
-<h3 align="center">A passionate software developer from India</h3>
-
-- 🌱 I’m currently learning **Node.js, MongoDB, React**
-
-- 👯 I’m looking to collaborate on **Fullstack Projects**
-
-- 💬 Ask me about **java, spring, javascript, any full stack developement quesions**
-
-- ⚡ Fun fact **I Love Capturing Photos**
+<div align="center">
+  
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kush_jadhav_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kuslhhh) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:25535791) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kuslhhh) 
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white)
-# 📊 GitHub Stats:
+![image](https://github.com/user-attachments/assets/3b11bf9e-b1a9-4251-8a24-fbff65301952)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=kuslhhh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kuslhhh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=kuslhhh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+  Hi! I'm Kush. My programming journey started at the start of 2022, and since then I've rapidly expanding to many other languages and frameworks. Eager to learn WEB3!
+
+  ----
+  ### Languages
+    
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" height="80">  
+  <img src="https://skillicons.dev/icons?i=js" height="80">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" height="80">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" height="80">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" height="80">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="80">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="80">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" height="80">
+  <img src="https://skillicons.dev/icons?i=mysql" height="80">
+
+  <br> 
+  <img src="https://skillicons.dev/icons?i=react" height="80">
+  <img src="https://skillicons.dev/icons?i=nextjs" height="80">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="80">
+  <img src="https://skillicons.dev/icons?i=spring" height="80">
+  
+  <br>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" height="80">    
+  <img src="https://skillicons.dev/icons?i=vscode" height="80">
+  <br>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuslhhh&langs_count=5&layout=donut&hide=mcfunction&theme=default&hide_border=true&title_color=ffffff&hide_title=true)
+  
+  ----
+  ### Contact
+  **Email:** kushaljadhav7745@gmail.com
+  
+  <!--- **Website:** https://loudbook.dev * -->
+  
+  **Discord:** [@kushhh_18](https://discordapp.com/users/664597683511492608)
+    
+</div>
