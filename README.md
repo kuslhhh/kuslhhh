@@ -1,6 +1,7 @@
 <div align="center">
 
-![H! i’m Kush  (4)](https://github.com/user-attachments/assets/2c426a8c-48ff-4b45-8824-98b0b66018a3)
+![H! i’m Kush  (5)](https://github.com/user-attachments/assets/40a6025b-7315-4648-8eeb-18c4d20a2173)
+
 
 
   Hi! I'm Kush. My programming journey started at the start of 2022, and since then I've rapidly expanding to many other languages and frameworks. Eager to learn WEB3!
