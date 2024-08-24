@@ -30,8 +30,12 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="80">
   <br>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuslhhh&langs_count=5&layout=donut&hide=mcfunction&theme=default&hide_border=true&title_color=ffffff&hide_title=true)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1" width="400" height="80"/></a>
+  <div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuslhhh&langs_count=5&layout=donut&hide=mcfunction&theme=default&hide_border=true&title_color=ffffff&hide_title=true" alt="Top Langs" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=DenverCoder1" width="400" height="80"/>
+  </a>
+</div>
 
 
   
