@@ -33,7 +33,6 @@
   <div style="display: flex; align-items: center; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuslhhh&langs_count=5&layout=donut&hide=mcfunction&theme=default&hide_border=true&title_color=ffffff&hide_title=true" alt="Top Langs" />
     <br>
-    <h2>GitHub Stats</h2>
 <details>
 <summary> 
 My Github Stats
