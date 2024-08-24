@@ -1,10 +1,10 @@
 <div align="center">
 
-![H! i’m Kush  (5)](https://github.com/user-attachments/assets/40a6025b-7315-4648-8eeb-18c4d20a2173)
+  ![H! i’m Kush  (5)](https://github.com/user-attachments/assets/40a6025b-7315-4648-8eeb-18c4d20a2173)
 
-
-
-  Hi! I'm Kush. My programming journey started at the start of 2022, and since then I've rapidly expanding to many other languages and frameworks. Eager to learn WEB3!
+  <div style="font-family: 'Poppins', sans-serif; color: white;">
+    Hi! I'm Kush. My programming journey started at the start of 2022, and since then I've rapidly expanded to many other languages and frameworks. Eager to learn WEB3!
+  </div>
 
   ----
   ### Tech Stack
@@ -31,22 +31,20 @@
   <br>
 
   <div style="display: flex; align-items: center; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuslhhh&langs_count=5&layout=donut&hide=mcfunction&theme=default&hide_border=true&title_color=ffffff&hide_title=true" alt="Top Langs" />
-    <br>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=kuslhhh" width="475" height="115"/>
-  </a>
-</div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuslhhh&langs_count=5&layout=donut&hide=mcfunction&theme=default&hide_border=true&title_color=ffffff&hide_title=true" alt="Top Langs" />
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=kuslhhh" width="475" height="115"/>
+    </a>
+  </div>
 
-
-
-  
   ----
   ### Contact
-  **Email:** kushaljadhav7745@gmail.com
+  <div style="font-family: 'Poppins', sans-serif; color: white;">
+    **Email:** kushaljadhav7745@gmail.com
   
-  <!--- **Website:** https://loudbook.dev * -->
+    <!--- **Website:** https://loudbook.dev * -->
   
-  **Discord:** [@kushhh_18](https://discordapp.com/users/664597683511492608)
+    **Discord:** [@kushhh_18](https://discordapp.com/users/664597683511492608)
+  </div>
     
 </div>
