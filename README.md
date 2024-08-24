@@ -34,7 +34,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuslhhh&langs_count=5&layout=donut&hide=mcfunction&theme=default&hide_border=true&title_color=ffffff&hide_title=true" alt="Top Langs" />
     <br>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=kuslhhh" width="500" height="120"/>
+    <img src="https://streak-stats.demolab.com?user=kuslhhh" width="400" height="80"/>
   </a>
 </div>
 
