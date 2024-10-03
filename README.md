@@ -6,8 +6,6 @@
 
   Hi! I'm Kush. My programming journey started at the start of 2022, and since then I've rapidly expanding to many other languages and frameworks. Eager to learn WEB3!
 
-  [![Spotify](https://spotifygit.vercel.app/api/spotify)](https://open.spotify.com/user/kusssss)
-
   ----
   ### Tech Stack
     
