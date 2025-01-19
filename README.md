@@ -39,7 +39,7 @@ My Github Stats
 </summary>
 
 <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=kuslhhh" width="475" height="115"/>
+    <img src="https://streak-stats.demolab.com?user=kuslhhh" width="475" height="115"  />
   </a>
 
 
