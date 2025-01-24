@@ -56,8 +56,8 @@ My Github Stats
   ### Contact
   **Email:** kushaljadhav7745@gmail.com
   
-  <!--- **Website:** https://loudbook.dev * -->
   
   **Discord:** [@kushhh_18](https://discordapp.com/users/664597683511492608)
-    
+  ----
+![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)    
 </div>
