@@ -38,9 +38,10 @@
 My Github Stats
 </summary>
 
-<a href="https://github-readme-stats.vercel.app/api?username=kuslhhh">
-    <img src="https://github-readme-stats.vercel.app/api?username=kuslhhh&show_icons=true&theme=radical" width="475" height="115" />
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=kuslhhh">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuslhhh" width="475" height="115" />
 </a>
+
 
 
 
